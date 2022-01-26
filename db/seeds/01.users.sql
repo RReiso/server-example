@@ -1,0 +1,10 @@
+insert into users ( name, phone_number, password_digest, admin) values ( 'Easthope', '208-512-0558', 'IjZAgcfl7p92ldGxad68LJZdL17lhWy', false);
+insert into users ( name, phone_number, password_digest, admin) values ( 'Tytherton', '753-247-7392', 'IjZAgcfl7p92ldGxad68LJZdL17lhWy', false);
+insert into users ( name, phone_number, password_digest, admin) values ( 'Linforth', '259-857-5301', 'IjZAgcfl7p92ldGxad68LJZdL17lhWy', false);
+insert into users ( name, phone_number, password_digest, admin) values ( 'Keir', '680-767-4122', 'IjZAgcfl7p92ldGxad68LJZdL17lhWy', false);
+insert into users ( name, phone_number, password_digest, admin) values ( 'Mathie', '818-598-1569', 'IjZAgcfl7p92ldGxad68LJZdL17lhWy', false);
+insert into users ( name, phone_number, password_digest, admin) values ( 'Croyser', '812-875-5553', 'IjZAgcfl7p92ldGxad68LJZdL17lhWy', false);
+insert into users ( name, phone_number, password_digest, admin) values ( 'Boole', '251-937-1160', 'IjZAgcfl7p92ldGxad68LJZdL17lhWy', false);
+insert into users ( name, phone_number, password_digest, admin) values ( 'Jankowski', '778-532-6205', 'IjZAgcfl7p92ldGxad68LJZdL17lhWy', false);
+insert into users ( name, phone_number, password_digest, admin) values ( 'Frigot', '638-949-9008', 'IjZAgcfl7p92ldGxad68LJZdL17lhWy', false);
+insert into users ( name, phone_number, password_digest, admin) values ( 'Mayston', '897-484-9199', 'IjZAgcfl7p92ldGxad68LJZdL17lhWy', true);
