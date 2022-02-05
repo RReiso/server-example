@@ -10,5 +10,3 @@ Follow these steps after setting up a local PostgreSQL database:
 5. Run the server: `npm run local`
 
 - Note: nodemon is used, so you should not have to restart your server
-
-6. Visit `http://localhost:8079/`
