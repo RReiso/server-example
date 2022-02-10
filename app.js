@@ -15,7 +15,7 @@ app.use(express.json());
 const usersRoutes = require("./routes/UsersRouter");
 
 // Mount all resource routes
-app.use("api/users", usersRoutes);
+app.use("/api/users", usersRoutes);
 
 app.listen(PORT, () => {
   console.log(`Example app listening on port ${PORT}`);

@@ -1,4 +1,4 @@
-const db = require("../db/connection");
+const db = require("../db"); // default import - index.js
 
 const create = (email, password) => {
   return db
